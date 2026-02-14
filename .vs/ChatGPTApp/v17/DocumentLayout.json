@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nout\\Documents\\GitHub\\ChatGPT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C17950E-5353-40CF-A370-1D31CC5ED1CC}|ChatGPTApp\\ChatGPTApp.csproj|c:\\users\\nout\\documents\\github\\chatgpt\\chatgptapp\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C17950E-5353-40CF-A370-1D31CC5ED1CC}|ChatGPTApp\\ChatGPTApp.csproj|solutionrelative:chatgptapp\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C17950E-5353-40CF-A370-1D31CC5ED1CC}|ChatGPTApp\\ChatGPTApp.csproj|c:\\users\\nout\\documents\\github\\chatgpt\\chatgptapp\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C17950E-5353-40CF-A370-1D31CC5ED1CC}|ChatGPTApp\\ChatGPTApp.csproj|solutionrelative:chatgptapp\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C17950E-5353-40CF-A370-1D31CC5ED1CC}|ChatGPTApp\\ChatGPTApp.csproj|c:\\users\\nout\\documents\\github\\chatgpt\\chatgptapp\\repositories\\chatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C17950E-5353-40CF-A370-1D31CC5ED1CC}|ChatGPTApp\\ChatGPTApp.csproj|solutionrelative:chatgptapp\\repositories\\chatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C17950E-5353-40CF-A370-1D31CC5ED1CC}|ChatGPTApp\\ChatGPTApp.csproj|c:\\users\\nout\\documents\\github\\chatgpt\\chatgptapp\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C17950E-5353-40CF-A370-1D31CC5ED1CC}|ChatGPTApp\\ChatGPTApp.csproj|solutionrelative:chatgptapp\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C17950E-5353-40CF-A370-1D31CC5ED1CC}|ChatGPTApp\\ChatGPTApp.csproj|c:\\users\\nout\\documents\\github\\chatgpt\\chatgptapp\\models\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C17950E-5353-40CF-A370-1D31CC5ED1CC}|ChatGPTApp\\ChatGPTApp.csproj|solutionrelative:chatgptapp\\models\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C17950E-5353-40CF-A370-1D31CC5ED1CC}|ChatGPTApp\\ChatGPTApp.csproj|c:\\users\\nout\\documents\\github\\chatgpt\\chatgptapp\\infrastructure\\appserviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C17950E-5353-40CF-A370-1D31CC5ED1CC}|ChatGPTApp\\ChatGPTApp.csproj|solutionrelative:chatgptapp\\infrastructure\\appserviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatService.cs",
+              "DocumentMoniker": "C:\\Users\\Nout\\Documents\\GitHub\\ChatGPT\\ChatGPTApp\\Services\\ChatService.cs",
+              "RelativeDocumentMoniker": "ChatGPTApp\\Services\\ChatService.cs",
+              "ToolTip": "C:\\Users\\Nout\\Documents\\GitHub\\ChatGPT\\ChatGPTApp\\Services\\ChatService.cs",
+              "RelativeToolTip": "ChatGPTApp\\Services\\ChatService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T13:20:44.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "APIService.cs",
+              "DocumentMoniker": "C:\\Users\\Nout\\Documents\\GitHub\\ChatGPT\\ChatGPTApp\\Services\\APIService.cs",
+              "RelativeDocumentMoniker": "ChatGPTApp\\Services\\APIService.cs",
+              "ToolTip": "C:\\Users\\Nout\\Documents\\GitHub\\ChatGPT\\ChatGPTApp\\Services\\APIService.cs",
+              "RelativeToolTip": "ChatGPTApp\\Services\\APIService.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T13:20:41.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nout\\Documents\\GitHub\\ChatGPT\\ChatGPTApp\\Repositories\\ChatRepository.cs",
+              "RelativeDocumentMoniker": "ChatGPTApp\\Repositories\\ChatRepository.cs",
+              "ToolTip": "C:\\Users\\Nout\\Documents\\GitHub\\ChatGPT\\ChatGPTApp\\Repositories\\ChatRepository.cs",
+              "RelativeToolTip": "ChatGPTApp\\Repositories\\ChatRepository.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T13:20:34.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\Nout\\Documents\\GitHub\\ChatGPT\\ChatGPTApp\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "ChatGPTApp\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\Nout\\Documents\\GitHub\\ChatGPT\\ChatGPTApp\\Models\\Message.cs",
+              "RelativeToolTip": "ChatGPTApp\\Models\\Message.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T13:20:28.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Chat.cs",
+              "DocumentMoniker": "C:\\Users\\Nout\\Documents\\GitHub\\ChatGPT\\ChatGPTApp\\Models\\Chat.cs",
+              "RelativeDocumentMoniker": "ChatGPTApp\\Models\\Chat.cs",
+              "ToolTip": "C:\\Users\\Nout\\Documents\\GitHub\\ChatGPT\\ChatGPTApp\\Models\\Chat.cs",
+              "RelativeToolTip": "ChatGPTApp\\Models\\Chat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T13:20:27.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppServiceProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Nout\\Documents\\GitHub\\ChatGPT\\ChatGPTApp\\Infrastructure\\AppServiceProvider.cs",
+              "RelativeDocumentMoniker": "ChatGPTApp\\Infrastructure\\AppServiceProvider.cs",
+              "ToolTip": "C:\\Users\\Nout\\Documents\\GitHub\\ChatGPT\\ChatGPTApp\\Infrastructure\\AppServiceProvider.cs",
+              "RelativeToolTip": "ChatGPTApp\\Infrastructure\\AppServiceProvider.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T13:20:21.891Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
